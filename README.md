@@ -10,3 +10,5 @@ Notebooks fundamentos de programacion en Python
 4. Explicación de como cambian las variables dependiendo de su tipo ["notebook"](./objetos_mutables_inmutables.ipynb) 
 
 5. Explicación del funcionamiento de los diccionarios en python ["notebook"](./diccionarios.ipynb)
+
+6. Explicación de las excepciones que se usan en python ["notebook"](./Exception.ipynb)
