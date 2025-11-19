@@ -8,3 +8,5 @@ Notebooks fundamentos de programacion en Python
 3. Funcionamiento de las variables locales y globales ["notebook"](./variables_local_global.ipynb)
 
 4. Explicación de como cambian las variables dependiendo de su tipo ["notebook"](./objetos_mutables_inmutables.ipynb) 
+
+5. Explicación del funcionamiento de los diccionarios en python ["notebook"](./diccionarios.ipynb)
