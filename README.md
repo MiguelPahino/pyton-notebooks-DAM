@@ -6,3 +6,5 @@ Notebooks fundamentos de programacion en Python
 2. Operaciones básicas con strings ["notebook"](./notebook_strings.ipynb)
 
 3. Funcionamiento de las variables locales y globales ["notebook"](./variables_local_global.ipynb)
+
+4. Explicación de como cambian las variables dependiendo de su tipo ["notebook"](./objetos_mutables_inmutables.ipynb)
